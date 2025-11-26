@@ -37,7 +37,7 @@ Figure -02 HALF Subtractor
 HALF ADDER
 ![alt text](<Screenshot 2025-11-26 182216.png>)
 
-HALF SUBRACTER
+HALF SUBTRACTOR
 ![alt text](<Screenshot 2025-11-26 182230.png>)
 
 **Procedure**
