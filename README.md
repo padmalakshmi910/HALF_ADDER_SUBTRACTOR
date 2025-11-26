@@ -65,3 +65,4 @@ Developed by:G.Padma Lakshmi  RegisterNumber:25017315
 ![alt text](exp3.png)
 
 **Result:**
+Thus the half subtractor and half adder circuits are designed and the truth tables is verified using quartus software.
